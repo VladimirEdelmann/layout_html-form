@@ -1,1 +1,17 @@
-/* styles go here */
+.surname-field,
+.name-field,
+.age-field,
+.date-field,
+.reg-field,
+.cats-field,
+.color-field,
+.time-field,
+.brand-field,
+.comment-field {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.field {
+  margin-bottom: 20px;
+}
