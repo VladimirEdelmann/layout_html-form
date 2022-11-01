@@ -1,13 +1,4 @@
-.surname-field,
-.name-field,
-.age-field,
-.date-field,
-.reg-field,
-.cats-field,
-.color-field,
-.time-field,
-.brand-field,
-.comment-field {
+.label {
   display: block;
   margin-bottom: 10px;
 }
